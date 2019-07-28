@@ -10,3 +10,4 @@ author: Andrew Grube # Add name author (optional)
 > Hank’s Saloon has a honky-tonk vibe & regular live music. Draw a crowd to this dark, black-painted watering hole.
 
 ![Hank's Saloon Graffiti]({{site.baseurl}}/assets/img/HanksSaloon_Bathroom-Door.jpg)
+Photo Credit: @william_ruben_helms on Instagram.
